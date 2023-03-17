@@ -24,7 +24,7 @@ const jkapa7 = {
 <p align="center">
 <a href="https://www.linkedin.com/in/gonzalezjuanr" target="_blank"><img alt="Website" src="https://img.shields.io/badge/LinkedIn-%40gonzalezjuanr-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.linkedin.com/in/gonzalezjuanr" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Website-comingsoon-blue?style=flat-square&logo=appveyor"></a>
-<a href="https://www.linkedin.com/in/gonzalezjuanr"><img alt="Email" src="https://img.shields.io/badge/Email-juandaniel5005%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:juandaniel5005@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-juandaniel5005%40gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
