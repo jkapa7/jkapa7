@@ -1,6 +1,7 @@
 
 ![git hub user conten](https://user-images.githubusercontent.com/111901979/225768541-b012b487-8324-4b70-9c3d-40fb46408959.png)
 
+## About me in code
 
 ````JavaScript
 const jkapa7 = {
@@ -10,10 +11,14 @@ const jkapa7 = {
    tools: ["React", "Node", "Redux"],
    
    technologies: ["JavaScript", "HTML", "CSS"],
+   
+   technologies: ["JavaScript", "HTML", "CSS"],
 };
 
 ````
-Connect with me:
+
+
+## Connect with me:
 - [Linkedin](www.linkedin.com/in/gonzalezjuanr)
 - [Website](www.linkedin.com/in/gonzalezjuanr)
 - [Email](www.linkedin.com/in/gonzalezjuanr)
