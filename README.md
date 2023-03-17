@@ -21,6 +21,8 @@ const jkapa7 = {
 
 ## Connect with me:
 
+<br>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/gonzalezjuanr" target="_blank"><img alt="Website" src="https://img.shields.io/badge/LinkedIn-%40gonzalezjuanr-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.linkedin.com/in/gonzalezjuanr" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Website-comingsoon-blue?style=flat-square&logo=appveyor"></a>
