@@ -4,11 +4,19 @@
 
 ````JavaScript
 const jkapa7 = {
-technologies:
 
-}
+   technologies: ["JavaScript", "HTML", "CSS"],
+   
+   tools: ["React", "Node", "Redux"],
+   
+   technologies: ["JavaScript", "HTML", "CSS"],
+};
+
 ````
-You can finde me
+Connect with me:
+- [Linkedin](www.linkedin.com/in/gonzalezjuanr)
+- [Website](www.linkedin.com/in/gonzalezjuanr)
+- [Email](www.linkedin.com/in/gonzalezjuanr)
 
 
 
