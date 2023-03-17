@@ -19,9 +19,13 @@ const jkapa7 = {
 
 
 ## Connect with me:
-- [Linkedin](www.linkedin.com/in/gonzalezjuanr)
-- [Website](www.linkedin.com/in/gonzalezjuanr)
-- [Email](www.linkedin.com/in/gonzalezjuanr)
+
+<p align="center">
+<a href="www.linkedin.com/in/gonzalezjuanr" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
+<a href="www.linkedin.com/in/gonzalezjuanr" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+<a href="www.linkedin.com/in/gonzalezjuanr"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
+
 
 
 
