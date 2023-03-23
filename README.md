@@ -8,7 +8,7 @@ const jkapa7 = {
 
    technologies: ["JavaScript", "HTML", "CSS"],
    
-   tools: ["React", "Node", "Redux"],
+   tools: ["React", "Node", "Redux", "Sass"],
    
    technologies: ["JavaScript", "HTML", "CSS"],
    
