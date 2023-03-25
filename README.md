@@ -6,7 +6,7 @@
 ````JavaScript
 const jkapa7 = {
 
-   technologies: ["JavaScript", "HTML", "CSS"],
+   technologies: ["JavaScript", "HTML5", "CSS"],
    
    tools: ["React", "Node", "Redux", "Sass"],
    
