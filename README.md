@@ -17,9 +17,7 @@ const jkapa7 = {
 
 ````
 <br>
-<br>
-<br>
-<br>
+
 
 
 ## Connect with me:
