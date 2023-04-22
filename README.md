@@ -10,7 +10,7 @@ const jkapa7 = {
    
    tools: ["React", "Node", "Redux", "Sass"],
    
-   technologies: ["JavaScript", "HTML", "CSS"],
+   
    
 };
 
