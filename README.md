@@ -1,16 +1,16 @@
 
 ![git hub user conten](https://user-images.githubusercontent.com/111901979/225768541-b012b487-8324-4b70-9c3d-40fb46408959.png)
 
-## About me in code
+## My skills
 
 ````JavaScript
-const jkapa7 = {
+const jkapa7 = [
 
-   technologies: ["JavaScript", "HTML5", "CSS"],
+   "JavaScript", "HTML5", "CSS",
    
-   tools: ["React", "Node", "Redux", "Sass"],
+   "React", "Node", "Redux", "Sass"
    
-};
+];
 
 ````
 <br>
