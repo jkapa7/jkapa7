@@ -27,13 +27,10 @@ const jkapa7 = [
 ## Connect with me:
 
 <br>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/gonzalezjuanr" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Website-comingsoon-blue?style=flat-square&logo=appveyor"></a>
-<a href="mailto:juandaniel5005@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-juandaniel5005%40gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
    
 <p align="left">
 <a href="https://www.linkedin.com/in/gonzalezjuanr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-daniel-gonzalez" height="30" width="40" /></a>
+   <a href="https://www.linkedin.com/in/gonzalezjuanr" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Website-comingsoon-blue?style=flat-square&logo=appveyor"></a>
+<a href="mailto:juandaniel5005@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-juandaniel5005%40gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
