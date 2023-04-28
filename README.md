@@ -30,7 +30,7 @@ const jkapa7 = [
    
 <p align="left">
    
-<a href="https://www.linkedin.com/in/gonzalezjuanr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-daniel-gonzalez" height="30" width="40" /></a>
+<p>Linkedin: <p/> <a href="https://www.linkedin.com/in/gonzalezjuanr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-daniel-gonzalez" height="30" width="40" /></a>
    
 <a href="https://www.linkedin.com/in/gonzalezjuanr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-daniel-gonzalez" height="30" width="40"/></a>
    
