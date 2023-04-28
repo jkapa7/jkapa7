@@ -6,11 +6,11 @@
 ````JavaScript
 const jkapa7 = [
 
-   "JavaScript (ES6)", "HTML5", "CSS", "React", "Redux", "Node.js", "React", "Node", "Redux", "Sass", "Git", "GitHub", "PostgreSQL",  
+   "JavaScript (ES6)", "HTML5", "CSS", "React", "Redux", "Node.js", "React", "Node", "Redux", "Sass", "Git", "GitHub",
    
-   "Node Package Manager (NPM)", "Express"  "Scrum"  "Frontend" "Backend" "Full-Stack" "Advance English" "Native Spanish"  "Planning" "Perseverance" 
+   "PostgreSQL", "Node Package Manager (NPM)", "Express"  "Scrum"  "Frontend" "Backend" "Full-Stack" "Planning" 
    
-   "Problem Resolution"  "Self Motivation"  "Flexibility"  "Dedication" "Personal Productivity" 
+   "Perseverance"  "Problem Resolution"  "Self Motivation"  "Flexibility"  "Dedication" "Personal Productivity" 
   
 ];
 
