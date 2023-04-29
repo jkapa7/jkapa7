@@ -28,6 +28,38 @@ const jkapa7 = [
    
 <br>
 
+  <div class="images-container">
+  <div class="image-container">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Image 1">
+    <div class="description">Descripción de la imagen 1</div>
+  </div>
+  <div class="image-container">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Image 2">
+    <div class="description">Descripción de la imagen 2</div>
+  </div>
+  <div class="image-container">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Image 3">
+    <div class="description">Descripción de la imagen 3</div>
+  </div>
+</div>
+
+<style>
+  .images-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .image-container {
+    width: 30%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .description {
+    margin-left: 16px;
+  }
+</style> 
+   
 
 
 ## Connect with me:
