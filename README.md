@@ -32,7 +32,7 @@ const jkapa7 = [
 <p align="left">
    
   <a href="mailto:juandaniel5005@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Juan Daniel Gonzalez's DEV Profile" width="40" height="40">
+    <img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" alt="Juan Daniel Gonzalez's DEV Profile" width="40" height="40">
   </a>
 
   <a href="https://www.linkedin.com/in/gonzalezjuanr">
