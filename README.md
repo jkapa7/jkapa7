@@ -27,45 +27,35 @@ const jkapa7 = [
    
    
 <br>
-
-  <div class="images-container">
-  <div class="image-container">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Image 1"  width="40" height="40">
-    <div class="description">Descripción de la imagen 1</div>
-  </div>
-  <div class="image-container">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Image 2"  width="40" height="40">
-    <div class="description">Descripción de la imagen 2</div>
-  </div>
-  <div class="image-container">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Image 3"  width="40" height="40">
-    <div class="description">Descripción de la imagen 3</div>
-  </div>
-</div>
-
-<style>
-  .images-container {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-  }
-  .image-container {
-    width: 30%;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-  }
-  .description {
-    margin-left: 16px;
-  }
-</style> 
    
 
 
 ## Connect with me:
-<p aling="center"><a href="https://www.linkedin.com/in/gonzalezjuanr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-daniel-gonzalez" height="30" width="40"/><p>Linkedin:</p></a></p> 
-   
-   
+<p align="center">
+  <a href="https://dev.to/anhello">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Angel Santiago Jaime Zavala's DEV Profile" height="30" width="30">
+  </a>
+
+  <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+  </a>
+
+  <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
+  </a>
+
+  <a href="https://stackexchange.com/users/3525056/angel-santiago-jaime-zavala">
+    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" height="30" width="30">
+  </a>
+
+  <a href="https://stackshare.io/anhello">
+    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Angel Santiago Jaime Zavala's StackShare Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://gitlab.com/AnhellO">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Angel Santiago Jaime Zavala's GitLab Profile" height="30" width="30">
+  </a>
+</p>
    
    
 <p align="left"><p>Linkedin: <a href="https://www.linkedin.com/in/gonzalezjuanr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-daniel-gonzalez" height="30" width="40" /></a> <p/><p>Website: <a href="https://www.linkedin.com/in/gonzalezjuanr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-daniel-gonzalez" height="30" width="40"/></a> <p/><p>Email: <a href="mailto:juandaniel5005@gmail.com" target="blank"><img href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AGmail_icon_%25282020%2529.svg&psig=AOvVaw0LOtntSUneZ_Y4wRiKSWzJ&ust=1682882771338000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDk9q_pz_4CFQAAAAAdAAAAABAD" alt="juan-daniel-gonzalez" height="30" width="40"/></a> <p/>
