@@ -32,8 +32,7 @@ const jkapa7 = [
 <p align="center">
 
   <a href="https://www.linkedin.com/in/gonzalezjuanr">
-     <p>Linkedin:</p>
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+   <p>Linkedin: <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30"></p>
   </a>
 
   <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
