@@ -31,21 +31,15 @@ const jkapa7 = [
 ## Connect with me:
 <p align="center">
   <a href="https://dev.to/anhello">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Angel Santiago Jaime Zavala's DEV Profile" height="30" width="30">
+    <img src="mailto:juandaniel5005@gmail.com" alt="Juan Daniel Gonzalez's DEV Profile" width="40" height="40">
   </a>
 
   <a href="https://www.linkedin.com/in/gonzalezjuanr">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Juan Daniel Gonzalez's LinkedIn Profile" width="40" height="40">
   </a>
 
   <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Juan Daniel Gonzalez's Stack Overflow Profile"width="40" height="40">
   </a>
 </p>
-
-   
-<p align="left">
-   
- <p>Website: <a href="https://www.linkedin.com/in/gonzalezjuanr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-daniel-gonzalez" height="30" width="40"/></a> <p/><p>Email: <a href="mailto:juandaniel5005@gmail.com" target="blank"><img href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AGmail_icon_%25282020%2529.svg&psig=AOvVaw0LOtntSUneZ_Y4wRiKSWzJ&ust=1682882771338000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDk9q_pz_4CFQAAAAAdAAAAABAD" alt="juan-daniel-gonzalez" height="30" width="40"/></a> <p/>
- 
 
