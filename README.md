@@ -29,16 +29,16 @@ const jkapa7 = [
 
 
 ## Connect with me:
-<p align="left" justify-content:"center">
+<p align="left">
    
-  <a href="mailto:juandaniel5005@gmail.com">
-    <img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" alt="Juan Daniel Gonzalez's DEV Profile" width="40" height="40">
-  </a>
-
   <a href="https://www.linkedin.com/in/gonzalezjuanr">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Juan Daniel Gonzalez's LinkedIn Profile" width="40" height="40">
   </a>
 
+  <a href="mailto:juandaniel5005@gmail.com">
+    <img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" alt="Juan Daniel Gonzalez's DEV Profile" width="40" height="40">
+  </a>
+   
   <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Juan Daniel Gonzalez's Stack Overflow Profile"width="40" height="40">
   </a>
