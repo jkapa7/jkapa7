@@ -29,7 +29,7 @@ const jkapa7 = [
 
 
 ## Connect with me:
-<p align="left">
+<p align="left" justify-content:"center">
    
   <a href="mailto:juandaniel5005@gmail.com">
     <img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" alt="Juan Daniel Gonzalez's DEV Profile" width="40" height="40">
