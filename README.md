@@ -31,8 +31,8 @@ const jkapa7 = [
 ## Connect with me:
 <p align="center">
    
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-    <img src="mailto:juandaniel5005@gmail.com" alt="Juan Daniel Gonzalez's DEV Profile" width="40" height="40">
+  <a href="mailto:juandaniel5005@gmail.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Juan Daniel Gonzalez's DEV Profile" width="40" height="40">
   </a>
 
   <a href="https://www.linkedin.com/in/gonzalezjuanr">
