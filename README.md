@@ -30,15 +30,15 @@ const jkapa7 = [
 
   <div class="images-container">
   <div class="image-container">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Image 1">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Image 1"  width="40" height="40">
     <div class="description">Descripción de la imagen 1</div>
   </div>
   <div class="image-container">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Image 2">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Image 2"  width="40" height="40">
     <div class="description">Descripción de la imagen 2</div>
   </div>
   <div class="image-container">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Image 3">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Image 3"  width="40" height="40">
     <div class="description">Descripción de la imagen 3</div>
   </div>
 </div>
