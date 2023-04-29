@@ -30,7 +30,7 @@ const jkapa7 = [
 
 ## Connect with me:
 <div align="center">
-
+ <div>
   <a href="https://www.linkedin.com/in/gonzalezjuanr">
    <p>Linkedin: <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30"></p>
   </a>
@@ -42,7 +42,7 @@ const jkapa7 = [
   <a href="https://stackexchange.com/users/3525056/angel-santiago-jaime-zavala">
     <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" height="30" width="30">
   </a>
-  
+   </div>
 </div>
    
    
