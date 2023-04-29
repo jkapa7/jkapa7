@@ -31,10 +31,9 @@ const jkapa7 = [
 
 
 ## Connect with me:
-   <p aling="center">
-     <p>Linkedin: <a href="https://www.linkedin.com/in/gonzalezjuanr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-daniel-gonzalez" height="30" width="40" /></a> <p/>
+<p aling="center"><a href="https://www.linkedin.com/in/gonzalezjuanr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-daniel-gonzalez" height="30" width="40"/><p>Linkedin:</p></a></p> 
    
-   </p>  
+   
    
    
 <p align="left"><p>Linkedin: <a href="https://www.linkedin.com/in/gonzalezjuanr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-daniel-gonzalez" height="30" width="40" /></a> <p/><p>Website: <a href="https://www.linkedin.com/in/gonzalezjuanr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-daniel-gonzalez" height="30" width="40"/></a> <p/><p>Email: <a href="mailto:juandaniel5005@gmail.com" target="blank"><img href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AGmail_icon_%25282020%2529.svg&psig=AOvVaw0LOtntSUneZ_Y4wRiKSWzJ&ust=1682882771338000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDk9q_pz_4CFQAAAAAdAAAAABAD" alt="juan-daniel-gonzalez" height="30" width="40"/></a> <p/>
