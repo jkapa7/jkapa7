@@ -40,7 +40,7 @@ const jkapa7 = [
   </a>
    
   <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Juan Daniel Gonzalez's Stack Overflow Profile"width="40" height="40">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Juan Daniel Gonzalez's Stack Overflow Profile"width="40" height="40">
   </a>
 </p>
 
