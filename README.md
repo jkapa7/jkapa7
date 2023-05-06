@@ -23,8 +23,6 @@ const jkapa7 = [
 
 ````
    
-
-<br>
    
 
 
