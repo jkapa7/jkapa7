@@ -13,7 +13,7 @@ Using the latest technologies available I am willing to grow and challenge mysel
 ````JavaScript
 const jkapa7 = [
 
-   "JavaScript (ES6)", "HTML5", "CSS", "React", "Redux", "Node.js", "React", "Node", "Redux", "Sass", "Git", "GitHub",
+   "JavaScript (ES6)", "HTML5", "CSS", "React", "Redux", "Node.js", "React", "Typescript", "Node", "Redux", "Sass", "Git", "GitHub",
    
    "PostgreSQL", "Node Package Manager (NPM)", "Express",  "Scrum",  "Frontend", "Backend", "Full-Stack", "Planning", 
    
