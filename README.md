@@ -3,8 +3,11 @@
 
 ## About me
 <div>
-Using the latest technologies available I am willing to grow and challenge myself in environments where I can learn and keep creating amazing dynamic experiences that live on the internet. I had the pleasure to coordinate and guide a group of +20 students for more than 12 weeks helping them in their process of integration, adaptation and development during the course of the bootcamp Soy Henry in my labors as a Teaching Assistant.
+Using the latest technologies available I am willing to grow and challenge myself in environments where I can learn and keep creating amazing dynamic experiences that live on the internet. I had the pleasure to coordinate and guide a group of +20 students for more than 12 weeks helping them in their process of integration, adaptation, and development during the course of the bootcamp Soy Henry in my labors as a Teaching Assistant.
 <div/>
+
+
+
 
 
    
