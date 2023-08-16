@@ -37,8 +37,5 @@ const jkapa7 = [
     <img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" alt="Juan Daniel Gonzalez's DEV Profile" width="40" height="40">
   </a>
    
-  <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Juan Daniel Gonzalez's Stack Overflow Profile"width="40" height="40">
-  </a>
 </p>
 
