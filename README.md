@@ -14,12 +14,13 @@ Using the latest technologies available I am willing to grow and challenge mysel
 ````JavaScript
 const jkapa7 = [
 
-   "JavaScript (ES6)", "HTML5", "CSS", "React", "Redux", "Node.js", "React", "Typescript", "Zustand", "Node", "Redux", "Sass", "Git", "GitHub",
+   "JavaScript (ES6)", "HTML5", "CSS", "React", "Redux", "Node.js", "React", "Typescript", "Zustand", "Node", 
    
-   "Tailwind CSS", "PostgreSQL", "Node Package Manager (NPM)", "Express",  "Scrum",  "Frontend", "Backend", "Full-Stack", "Planning", 
+   "Redux", "Sass", "Git", "GitHub", "Tailwind CSS", "PostgreSQL", "Node Package Manager (NPM)", "Express",  
    
-   "Perseverance",  "Problem Resolution",  "Self Motivation",  "Flexibility",  "Dedication", "Personal Productivity" 
-  
+   "Scrum",  "Frontend", "Backend", "Full-Stack", "Planning", "Perseverance",  "Problem Resolution",
+
+   "Self Motivation",  "Flexibility",  "Dedication", "Personal Productivity" 
 ];
 
 ````
