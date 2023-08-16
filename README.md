@@ -8,7 +8,7 @@ Using the latest technologies available I am willing to grow and challenge mysel
 
 
 
-
+<br/>
 
    
 ````JavaScript
@@ -24,7 +24,7 @@ const jkapa7 = [
 
 ````
    
-<br/>
+
 
 
 ## Connect with me:
