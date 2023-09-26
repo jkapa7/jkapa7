@@ -12,7 +12,7 @@ const jkapa7 = [
    
    "Scrum",  "Frontend", "Backend", "Full-Stack", "Planning", "Perseverance",  "Problem Resolution",
 
-   "Self Motivation",  "Flexibility", "Personal Productivity" 
+   "Flexibility", "Personal Productivity" 
 ];
 
 ````
