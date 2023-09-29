@@ -10,9 +10,7 @@ const jkapa7 = [
    
    "Redux", "Sass", "Git", "GitHub", "Tailwind CSS", "PostgreSQL", "Node Package Manager(NPM)", "Express",  
    
-   "Scrum",  "Frontend", "Backend", "Full-Stack", "Planning",  "Problem Resolution",
-
-   "Flexibility", "Personal Productivity" 
+   "Scrum",  "Frontend", "Backend", "Full-Stack", "Planning",  "Problem Resolution", "Flexibility", "Personal Productivity" 
 ];
 
 ````
