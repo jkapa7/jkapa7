@@ -4,7 +4,7 @@
 ## About me
    
 ````JavaScript
-const jkapa7 = [
+const jkapa = [
 
    "JavaScript (ES6)", "HTML5", "CSS", "React", "Redux", "Node.js", "React", "Typescript", "Zustand", "Node", 
    
