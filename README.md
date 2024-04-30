@@ -8,7 +8,7 @@ const jkapa = [
 
    "JavaScript (ES6)", "HTML5", "CSS", "React", "Redux", "Node.js", "React", "Typescript", "Zustand", "Node", 
    
-   "Redux", "Sass", "Git", "GitHub", "Tailwind CSS", "PostgreSQL", "Node Package Manager(NPM)", "Express",  
+   "Redux", "Sass", "Git", "GitHub", "Tailwind CSS", "PostgreSQL", "NPM", "Express",  
    
    "Scrum",  "Frontend", "Backend", "Full-Stack", "Planning",  "Problem Resolution", "Flexibility"
 ];
