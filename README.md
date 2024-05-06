@@ -4,11 +4,11 @@
 ````JavaScript
 const jkapa = [
 
-   "JavaScript", "HTML5", "CSS", "React", "Redux", "Node.js", "React", "Typescript", "Zustand", 
+   "JavaScript", "HTML5", "CSS", "React", "Redux", "Node.js", "Typescript", "Zustand", 
    
-   "Redux", "Sass", "Git", "GitHub", "Tailwind CSS", "PostgreSQL", "NPM", "Express", "Node",  
+   "Redux", "Sass", "Git", "Tailwind CSS", "PostgreSQL", "NPM", "Express", "Node",  
    
-   "Scrum",  "Frontend", "Backend", "Full-Stack", "Planning", "Problem Resolution", "Flexibility"
+   "Scrum",  "Frontend", "Backend", "Full-Stack", "Planning", "Problem Resolution",
 ];
 
 ````
